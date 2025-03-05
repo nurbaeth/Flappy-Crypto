@@ -14,7 +14,7 @@ Flappy Crypto is a fun arcade game inspired by Flappy Bird, where you control a 
 2. Install the required library:
    ```bash
    pip install pygame
-   ```
+   ``` 
 3. Run the game:
    ```bash
    python flappy_crypto.py
