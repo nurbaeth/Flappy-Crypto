@@ -12,7 +12,7 @@ Flappy Crypto is a fun arcade game inspired by Flappy Bird, where you control a 
 ## 🛠 Installation 
 1. Make sure you have Python installed (version 3.7+ recommended)
 2. Install the required library: 
-   ```bash
+   ```bash 
    pip install pygame
    ``` 
 3. Run the game:
